@@ -1,1 +1,1 @@
-# holbertonschool-binary_trees
+not empty
